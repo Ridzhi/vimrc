@@ -71,4 +71,4 @@ let g:airline_linecolumn_prefix='¶'
 let g:airline_fugitive_prefix='⎇ '
 
 
-map <C^p> :NERDTree
+map <C-n> :NERDTree
